@@ -1,1 +1,3 @@
-# Wilson-Dickson
+#  Hey am Wilson-Dickson a Quality Assurance Engineer who is proficicient in using functional testing tools like selenium, cypress, postman etc. performance testing tool like Jmeter and penetration testing tool like OWASP ZAP. I am interested in working remotely for a fast paced tech organization that gives me the avenue to put my skills into use while also providing me with lots of learning opportunities. I love jobs that comes with challenges because it pushes me to be a better version of myself.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cypress,eclipse,java,postgres,postman,py,pycharm,vscode,)](https://skillicons.dev)
